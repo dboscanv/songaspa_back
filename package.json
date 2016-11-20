@@ -1,0 +1,20 @@
+{
+  "name": "songa-api",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "latest",
+    "jsonwebtoken": "latest",
+    "jwt-simple": "^0.5.0",
+    "moment": "latest",
+    "mongoose": "latest",
+    "morgan": "latest"
+  },
+  "engines": {
+    "node": "latest"
+  },
+  "description": "Mi primer backend",
+  "main": "server.js",
+  "author": "Diego",
+  "license": "ISC"
+}
