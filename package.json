@@ -13,7 +13,7 @@
   "engines": {
     "node": "latest"
   },
-  "description": "Mi primer backend",
+  "description": "Songa-Api",
   "main": "server.js",
   "author": "Diego",
   "license": "ISC"
